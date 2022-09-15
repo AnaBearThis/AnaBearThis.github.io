@@ -1,7 +1,5 @@
-hr {
-    width: 10%;
-    height: 4px;
-    background: #808000
-    border: 0;
-    margin: 5px 0 5px 0;
+header{
+  background-image: url(%D1%88%D0%B0%D0%BF%D0%BA%D0%B04.png);
+  width: 100%;
+  background-size: cover;
 }
